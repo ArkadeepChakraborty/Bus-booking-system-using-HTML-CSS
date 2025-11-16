@@ -42,8 +42,6 @@ Frontend
 
 4. JavaScript
 
-🚀 Live Demo
-
 🔗 Live website: https://bus-booking-sys.netlify.app/
 
 🤝 Contributing
